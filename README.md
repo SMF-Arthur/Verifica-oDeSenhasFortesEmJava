@@ -1,3 +1,1 @@
-# Verifica-oDeSenhasFortesEmJava
-Teste para verificar senhas fortes
-Seguindo as ordens do professor, uma senha para ser considera forte precisa de no mínimo uma quantidade de caracteres e possuir letras maiúsculas, minúsculas, numeros e caracteres especiais.
+seguindo as ordens do professor, a senha deve possuir uma quantidade mínima de digitos, mas precisa também conter, caracteres minúsculos, maiúculos, números e caracteres especiais
